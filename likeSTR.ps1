@@ -12,7 +12,7 @@
 # -i                      Case-insensitive match
 
 # Pipeline https://www.gngrninja.com/script-ninja/2016/5/15/powershell-getting-started-part-8-accepting-pipeline-input
-# Convert to exe https://www.powershellgallery.com/packages/ps2exe/1.0.12
+# Convert to exe https://www.powershellgallery.com/packages/ps2exe/
 
 [cmdletbinding()]
 param(

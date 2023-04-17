@@ -13,4 +13,4 @@
  -i                      Case-insensitive match
 ```
 
-Coverted to exe https://www.powershellgallery.com/packages/ps2exe/1.0.12
+Coverted to exe https://www.powershellgallery.com/packages/ps2exe/
