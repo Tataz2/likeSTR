@@ -1,6 +1,6 @@
 ﻿#
 # likeSTR version beta 0.1
-# Prints line if it will match given filter. Pipeline is supported.
+# Prints line if it matches the given filter. Pipeline is supported.
 # Usage:
 # -file <inpute.txt>      Input file
 # -filter "124?123*"      Filter 
@@ -39,7 +39,7 @@ Process {
     # Print help 
     if ( ("$file" -eq "noFile123" -and $pipelineInput -eq $null) -or ( "$filter" -eq "noFilter123")  ) {
         write-host "likeSTR version beta 0.1"
-        write-host "Prints line if it will match given filter. Pipeline is supported."
+        write-host "Prints line if it matches the given filter. Pipeline is supported."
         write-host "Usage:"
         write-host "-file <inpute.txt>      Input file"
         write-host "-filter ""124?123*""      Filter"

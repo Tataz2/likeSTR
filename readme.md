@@ -1,7 +1,7 @@
 # likeSTR version beta 0.1
 
 ```
- Prints line if it will match given filter. Pipeline is supported.
+ Prints line if it matches the given filter. Pipeline is supported.
  Usage:
  -file <inpute.txt>      Input file
  -filter "124?123*"      Filter 
@@ -13,4 +13,4 @@
  -i                      Case-insensitive match
 ```
 
-Coverted to exe https://www.powershellgallery.com/packages/ps2exe/
+Coverted to exe by https://www.powershellgallery.com/packages/ps2exe/
